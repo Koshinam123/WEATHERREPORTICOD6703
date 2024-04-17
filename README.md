@@ -3,6 +3,8 @@
 
 Intership : CODTECH IT SOLUTION
 Task-2 : WEATHER FORECAST APP
+Name:Koshinam Akhila
+Intern ID:COD6703
 
 Code Explaination :
 
